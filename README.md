@@ -8,4 +8,5 @@ Formula tu/s pregunta/s de investigación. Ten en cuenta que tu/s pregunta/s deb
 * ... estar relacionada con hormigas del campus de la UASD.
 
 Mi/s pregunta/s de investigación es/son la/s siguiente/s:
-
+¿Cuáles familias de hormigas se pueden encuentrar en el campus de la UASD?
+¿Cómo se distribuyen estas familias?
