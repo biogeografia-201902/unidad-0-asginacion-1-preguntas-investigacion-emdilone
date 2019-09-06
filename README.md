@@ -8,11 +8,12 @@ Formula tu/s pregunta/s de investigación. Ten en cuenta que tu/s pregunta/s deb
 * ... estar relacionada con hormigas del campus de la UASD.
 
 Mi/s pregunta/s de investigación es/son la/s siguiente/s:
-¿Cuáles familias de hormigas se pueden encuentrar en el campus de la UASD?
+
+¿Cuáles subfamilias de hormigas se pueden observar en el campus de la UASD? #Si ya existe un trabajo realizado en el campus de la UASD podría ser como tipo confirmación.
 
 * Comentario de @geofis: Las hormigas son una única familia, *Formicidae*, dentro de la cual hay varias subfamilias (*Myrmicinae*, etc.). En el país hay reportadas nueve subfamilias, y en el campus de la UASD habrá varias de ellas. Asumiendo que se tratara de subfamilias, para responder a la pregunta de ¿cuáles se pueden encontrar? tendrías un problema: una especie no observada no necesariamente es una especie ausente. Borcard et al. (2018) dedican algunos párrafos interesantes a este tema. Si una especie no observada debe tratarse como una pseuso-ausencia, entonces está claro que para darla como ausente, el esfuerzo de muestreo debe ser grande, y al mismo tiempo, elegir un criterio para declarar "ausencia", por ejemplo, si al visitar 200 sitios, todas las subfamilias aparecen en dos o más sitios. Por lo tanto, con independencia de que la pregunta es interesante, parecería que también es un tanto arriesgada. **Corrige "encuentrar"**.
 
-¿Cómo se distribuyen estas familias?
+¿Cómo se distribuyen estas subfamilias? #Ver como se encuentran distribuidas dentro del campus las subfamilias encontradas, tomando en cuenta que predomina en esa zona (vegetacion, edificaciones, entre otras), para determinar como se distribuyen las hormigas con relación a su entorno.
 
 * Comentario de @geofis: Reiterando que probablemente te referías más bien otras categorías taxonómicas, como subfamilia, género, especie... En todo caso, la pregunta sobre ¿cómo se distribuyen los ...? es de interés biogeográfico, así que te animo a no abandonarla, pero el "cómo" habría que puntualizarlo más. Con "cómo" te refieres a "espacialmente", o quizá "temporalmente", o quizá te refieres a cómo se distribuyen en función de determinados factores. 
 
